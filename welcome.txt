@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 
 This file is created for assingment
 this line is for checking in development branch. welocme.txt file..
+=======
+This file is created for assingment.
+This is for dev-cui checking
+thiss is for checking staging.
+>>>>>>> dev-cui
